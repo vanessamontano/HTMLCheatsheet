@@ -1,0 +1,66 @@
+
+h1 {
+    color:#f08080;
+    font-size:35px;
+    font-family:'Yatra One';
+    position: relative;
+    text-align: center;
+    bottom: 30px;
+    padding-top: 50px;
+}
+
+table {
+    position:relative;
+    margin:auto;
+    z-index: 1;
+    top: 10px;
+    bottom: 30px;
+}
+
+.code {
+    font-family: monospace;
+    background-color:#ffe3e3;
+    font-weight:lighter;
+}
+
+td {
+    border: 1.5px solid #d91515;
+    background-color:#f08080;
+    font-family: 'Tajawal';
+    font-size:medium;
+    color:black;
+    margin: 10px;
+    padding: 10px;
+    text-align: left;
+  }
+
+  th {
+    border: 1.5px solid #d91515;
+    background-color:#ffb8b8;
+    font-family: 'Yatra One';
+    text-transform: uppercase;
+    font-size:15px;
+    letter-spacing: 1px;
+    color: #d91515;
+    text-align: left;
+    margin: 10px;
+    padding: 10px;
+  }
+
+  body {
+    background-color: #ffe3e3;
+
+  }
+
+  marquee {
+    position: static;
+    max-width: 550px;
+    padding: 10px;
+  }
+
+  img {
+    position:fixed;
+    bottom: 0px;
+    right: 0px;
+    max-height: 200px;
+  }
